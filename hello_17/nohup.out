@@ -1,0 +1,5 @@
+panic: sql: Scan error on column index 17, name "viplev": converting driver.Value type string ("") to a int64: invalid syntax
+
+goroutine 1 [running]:
+main.main()
+	/home/yangliang/project/go/src/helloUp/hello_15/pg.go:75 +0xa3e
